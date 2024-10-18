@@ -37,6 +37,6 @@ public class J3waresvcApplication implements CommandLineRunner {
 
 		this.userRepository.save(user);
 
-
+		// this just a test
 	}
 }
